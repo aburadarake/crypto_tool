@@ -1,8 +1,0 @@
-streamlit
-google-generativeai
-duckduckgo-search
-yfinance
-pandas
-plotly
-requests
-numpy
